@@ -6,6 +6,6 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     - [Learning Projects](#learning-projects)
 - [Contributing](#contributing)
 
-# [Contributing](https://github.com/melvin0008/awesome-julia/blob/master/CONTRIBUTING.md)
+# [Contributing](https://github.com/melvin0008/awesome-julia/blob/master/CONTRIBUTIONS.md)
 
 Your contributions are always welcome!
