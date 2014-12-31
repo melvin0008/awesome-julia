@@ -3,8 +3,18 @@ Awesome-Julia
 A curated list of awesome Python frameworks, libraries and software. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Julia](#awesome-julia)
+    - [Packages](#packages)
     - [Learning Julia](#learning-julia)
+    - [Resources](#resources)
 - [Contributing](#contributing)
+
+
+## Packages
+
+*Curated list of packages category wise*
+
+- [Julia.jl](https://github.com/svaksha/Julia.jl) - Aggregates and curates decibans of resources for the Julia language.
+
 
 
 ## Learning Julia
@@ -13,10 +23,20 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 - [Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - A simple exposition of the Julia language.
 - [Julia Studio Tutorials](http://forio.com/labs/julia-studio/tutorials/) - Learn Julia using Julia Studio.
+- [Learn Julia in XY Minutes](http://learnxinyminutes.com/docs/julia/) - Beginners tutorial to Julia.
+- [Learn Julia the hard way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Just what the name says.
 - [Video Tutorials](#video-tutorials)
     - [Tutorial at SciPy 2014](https://www.youtube.com/watch?v=vWkgEddb4-A) - Great video tutorial for starters.
     - [PyCon 2014](https://www.youtube.com/playlist?list=PLP8iPy9hna6TSRouJfvobfxkZFYiPSvPd) - Playlist of tutorials at PyCon 2014.
     - [MIT Tutorials](https://www.youtube.com/playlist?list=PLP8iPy9hna6Si2sjMkrPY-wt2mEouZgaZ) - Playlist of Julia tutorials at MIT.
+
+
+## Resources
+
+*Other Resources for learning Julia*
+
+- [Julia Cheetsheet](http://math.mit.edu/~stevenj/Julia-cheatsheet.pdf) - A list of basic math functions 
+
 
 
 
