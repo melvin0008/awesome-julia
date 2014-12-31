@@ -27,6 +27,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 - [Learn Julia in XY Minutes](http://learnxinyminutes.com/docs/julia/) - Beginners tutorial to Julia.
 - [Learn Julia the hard way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Just what the name says.
 - [Video Tutorials](#video-tutorials)
+    - [Youtube Videos](https://www.youtube.com/user/JuliaLanguage/videos) - A list of lectures and video tutorials at youtube.
     - [Tutorial at SciPy 2014](https://www.youtube.com/watch?v=vWkgEddb4-A) - Great video tutorial for starters.
     - [PyCon 2014](https://www.youtube.com/playlist?list=PLP8iPy9hna6TSRouJfvobfxkZFYiPSvPd) - Playlist of tutorials at PyCon 2014.
     - [MIT Tutorials](https://www.youtube.com/playlist?list=PLP8iPy9hna6Si2sjMkrPY-wt2mEouZgaZ) - Playlist of Julia tutorials at MIT.
