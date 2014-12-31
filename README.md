@@ -13,6 +13,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Curated list of packages category wise*
 
+- [Official Julia Packages](http://pkg.julialang.org/) - All registered packages for the Julia programming language.
 - [Julia.jl](https://github.com/svaksha/Julia.jl) - Aggregates and curates decibans of resources for the Julia language.
 
 
