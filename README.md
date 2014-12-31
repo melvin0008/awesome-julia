@@ -13,16 +13,19 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Curated list of Julia Projects*
 
-- [Julia Lang](https://github.com/JuliaLang)
-- [Julia Stats](https://github.com/JuliaLang)
-- [Julia Opt](https://github.com/JuliaLang)
-- [Julia Parallel](https://github.com/JuliaLang)
-- [Julia Astro](https://github.com/JuliaLang)
-- [Julia Quant](https://github.com/JuliaLang)
-- [Julia Quantum](https://github.com/JuliaLang)
-- [Julia Lang](https://github.com/JuliaLang)
-- [Julia Lang](https://github.com/JuliaLang)[Julia Lang](https://github.com/JuliaLang)
-
+- [Julia Lang](https://github.com/JuliaLang)-[the language](http://julialang.org/community)
+- [Julia Stats](https://github.com/JuliaStats)
+- [Julia Opt](https://github.com/JuliaOpt)
+- [Julia Parallel](https://github.com/JuliaParallel)
+- [Julia Astro](https://github.com/JuliaAstro)
+- [Julia Quant](https://github.com/JuliaQuant)
+- [Julia Quantum](https://github.com/JuliaQuantum)
+- [Julia Sparse](https://github.com/JuliaSparse)
+- [Julia Diff](https://github.com/JuliaDiff)
+- [Julia GPU](https://github.com/JuliaGPU)
+- [Julia Web](https://github.com/JuliaWeb)
+- [Julia CI](https://github.com/JuliaCI)
+- [BioJulia](https://github.com/BioJulia)
 
 
 
