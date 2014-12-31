@@ -12,6 +12,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Learning Resources for Julia.*
 
 * [Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - A simple exposition of the Julia language.
+* [Julia Studio Tutorials](http://forio.com/labs/julia-studio/tutorials/) - Learn Julia using Julia Studio.
 
 
 
