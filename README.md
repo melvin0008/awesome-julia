@@ -7,6 +7,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     - [Packages](#packages)
     - [Learning Julia](#learning-julia)
     - [Resources](#resources)
+    - [Community](#community)
 - [Contributing](#contributing)
 
 ## Github Umbrella
@@ -59,6 +60,17 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 - [Julia Cheetsheet](http://math.mit.edu/~stevenj/Julia-cheatsheet.pdf) - A list of basic math functions 
 
+
+## Community
+
+*Learn more about Julia by connecting with the community*
+
+- [Mailing Lists](#mailing-lists)
+    - [Julia Users](https://groups.google.com/forum/?fromgroups=#!forum/julia-users) - Discussion around the usage of julia. New users of julia can ask their questions here.
+    - [Julia Dev](https://groups.google.com/forum/?fromgroups=#!forum/julia-dev) -  Discussion related to the development of julia itself.
+    - [Julia Stats](https://groups.google.com/forum/?fromgroups=#!forum/julia-stats) - Discussions related to statistical programming with julia.
+    - [Julia Opt](https://groups.google.com/forum/?fromgroups=#!forum/julia-opt) - Discussions related to numerical optimization in julia.
+    - [Julia Box](https://groups.google.com/forum/?fromgroups=#!forum/julia-box) - Discussions related to running Julia in the so called cloud.
 
 
 
