@@ -27,6 +27,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 - [Julia Web](https://github.com/JuliaWeb)
 - [Julia CI](https://github.com/JuliaCI)
 - [BioJulia](https://github.com/BioJulia)
+- [JuliaBox](https://github.com/JuliaLang/JuliaBox)
 
 
 
