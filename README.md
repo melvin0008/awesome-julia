@@ -59,6 +59,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Other Resources for learning Julia*
 
+- [Julia Docs](http://julia.readthedocs.org/) - Julia Documentation
 - [Julia Cheetsheet](http://math.mit.edu/~stevenj/Julia-cheatsheet.pdf) - A list of basic math functions 
 
 
