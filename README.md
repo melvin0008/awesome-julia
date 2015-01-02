@@ -76,10 +76,14 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 - [Meetup groups](#meetup-groups)
     - [Julia Meetup Website](http://julia.meetup.com/)  
     - [North America](#north-america)
-        - [Bay Area Julia Users]()
-        - [Bay Area Julia Users]()
-        - [Bay Area Julia Users]()
-        - [Bay Area Julia Users]()
+        - [Bay Area Julia Users](http://www.meetup.com/Bay-Area-Julia-Users/)
+        - [Cambridge Area Julia Users Network](http://www.meetup.com/julia-cajun/)
+        - [Chicago Julia Meetup](http://www.meetup.com/JuliaChicago/)
+        - [NYC Julia User Group](http://www.meetup.com/julia-nyc/)
+        - [Southern California Julia Users](http://www.meetup.com/Southern-California-Julia-Users/)
+        - [Triangle Julia Users (North Carolina)](http://www.meetup.com/Triangle-Julia-Users/)
+        - [Ottawa Julia Meetup](http://www.meetup.com/Ottawa-Julia-Meetup/)
+        - [Vancouver Julia Users](http://www.meetup.com/Vancouver-Julia-Users/)
     
 
 
