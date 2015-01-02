@@ -73,6 +73,14 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     - [Julia Stats](https://groups.google.com/forum/?fromgroups=#!forum/julia-stats) - Discussions related to statistical programming with julia.
     - [Julia Opt](https://groups.google.com/forum/?fromgroups=#!forum/julia-opt) - Discussions related to numerical optimization in julia.
     - [Julia Box](https://groups.google.com/forum/?fromgroups=#!forum/julia-box) - Discussions related to running Julia in the so called cloud.
+- [Meetup groups](#meetup-groups)
+    - [Julia Meetup Website](http://julia.meetup.com/)  
+    - [North America](#north-america)
+        - [Bay Area Julia Users]()
+        - [Bay Area Julia Users]()
+        - [Bay Area Julia Users]()
+        - [Bay Area Julia Users]()
+    
 
 
 
