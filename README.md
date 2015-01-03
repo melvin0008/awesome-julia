@@ -84,7 +84,9 @@ A curated list of awesome julia libraries,softwares and tutorials. Inspired by [
         - [Triangle Julia Users (North Carolina)](http://www.meetup.com/Triangle-Julia-Users/)
         - [Ottawa Julia Meetup](http://www.meetup.com/Ottawa-Julia-Meetup/)
         - [Vancouver Julia Users](http://www.meetup.com/Vancouver-Julia-Users/)
-    
+    - [Europe](#europe)
+        - [London Julia Users Group](http://www.meetup.com/London-Julia-User-Group/)
+        - [Zurich Julia Users Group](http://www.meetup.com/Zurich-Julia-User-Group/)
 
 
 
