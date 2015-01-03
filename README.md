@@ -1,6 +1,6 @@
 Awesome-Julia
 =============     
-A curated list of awesome Python frameworks, libraries and software. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+A curated list of awesome julia libraries,softwares and tutorials. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Julia](#awesome-julia)
     - [Github Umbrella](#github-umbrella)
