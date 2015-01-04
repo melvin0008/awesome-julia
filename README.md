@@ -90,6 +90,8 @@ A curated list of awesome julia libraries,softwares and tutorials. Inspired by [
     - [Asia](#asia)
         - [Bangalore Julia User Group](http://www.meetup.com/Bangalore-Julia-User-Group/)
         - [Julia Tokyo](http://juliatokyo.connpass.com/)
+    - [Australia](#australia)
+        - [Sydney Julia User Group](http://www.meetup.com/Sydney-Julia-User-Group/)
 
 
 
