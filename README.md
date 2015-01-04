@@ -87,6 +87,9 @@ A curated list of awesome julia libraries,softwares and tutorials. Inspired by [
     - [Europe](#europe)
         - [London Julia Users Group](http://www.meetup.com/London-Julia-User-Group/)
         - [Zurich Julia Users Group](http://www.meetup.com/Zurich-Julia-User-Group/)
+    - [Asia](#asia)
+        - [Bangalore Julia User Group](http://www.meetup.com/Bangalore-Julia-User-Group/)
+        - [Julia Tokyo](http://juliatokyo.connpass.com/)
 
 
 
