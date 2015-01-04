@@ -1,6 +1,6 @@
 Awesome-Julia
 =============     
-A curated list of awesome julia libraries,softwares and tutorials. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+A curated list of awesome julia libraries, softwares and tutorials. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Julia](#awesome-julia)
     - [Github Umbrella](#github-umbrella)
@@ -92,6 +92,8 @@ A curated list of awesome julia libraries,softwares and tutorials. Inspired by [
         - [Julia Tokyo](http://juliatokyo.connpass.com/)
     - [Australia](#australia)
         - [Sydney Julia User Group](http://www.meetup.com/Sydney-Julia-User-Group/)
+    - [South America](#south-america)
+        - [Rio de Janeiro Julia Meetup](http://www.meetup.com/Rio-de-Janeiro-Julia-Meetup/) 
 
 
 
