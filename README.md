@@ -73,6 +73,11 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
     - [Julia Stats](https://groups.google.com/forum/?fromgroups=#!forum/julia-stats) - Discussions related to statistical programming with julia.
     - [Julia Opt](https://groups.google.com/forum/?fromgroups=#!forum/julia-opt) - Discussions related to numerical optimization in julia.
     - [Julia Box](https://groups.google.com/forum/?fromgroups=#!forum/julia-box) - Discussions related to running Julia in the so called cloud.
+
+- [Stackoverflow](http://stackoverflow.com/questions/tagged/julia-lang)
+- [Twitter](https://twitter.com/hashtag/julialang?src=hash)
+- [Reddit](http://www.reddit.com/r/Julia/)
+- [Julia Bloggers](http://www.juliabloggers.com/)
 - [Meetup groups](#meetup-groups)
     - [Julia Meetup Website](http://julia.meetup.com/)  
     - [North America](#north-america)
