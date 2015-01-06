@@ -6,6 +6,7 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
     - [Github Umbrella](#github-umbrella)
     - [Packages](#packages)
     - [Learning Julia](#learning-julia)
+    - [Software](#software)
     - [Resources](#resources)
     - [Community](#community)
 - [Contributing](#contributing)
