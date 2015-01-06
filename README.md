@@ -39,6 +39,24 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 - [Official Julia Packages](http://pkg.julialang.org/) - All registered packages for the Julia programming language.
 - [Julia.jl](https://github.com/svaksha/Julia.jl) - Aggregates and curates decibans of resources for the Julia language.
 
+## Software
+
+*Installation, IDE's*
+
+### IDE
+- [Sublime-Julia](https://github.com/quinnj/Sublime-Julia) :: Sublime Syntax, Build, Snippets, and REPL for the Julia language.
+- [Julia-Studio](http://forio.com/products/julia-studio/) :: Julia Studio by Forio.com and [Tutorials for Julia-Studio](http://forio.com/products/julia-studio/tutorials/) and its [source on github](https://github.com/forio/julia-tutorials).
+- [emacs-ess-julia.el](https://github.com/emacs-ess/ESS/blob/master/lisp/ess-julia.el) :: ESS support for julia language, includes font-lock, indentation, sending code to sub-process, interactive documentation, imenu, completion and eldoc. 
+   * _DOCS_ :: [Installation instructions for Julia](https://github.com/emacs-ess/ESS/wiki/Julia)
+- [Debug.jl](https://github.com/toivoh/Debug.jl) :: Prototype interactive debugger for Julia.
+- [jEdit-julia](https://github.com/tuckerkevin/jedit-julia) :: A jEdit mode for Julia.
+- [Jewel.jl](https://github.com/one-more-minute/Jewel.jl) :: is the Julia package which handles communication with Light Table for Jewel.
+
+- [Julia.tmbundle](https://github.com/nanoant/Julia.tmbundle) :: Julia language support for TextMate 2 (and Sublime Text).
+- [Julia-Vim](https://github.com/JuliaLang/julia-vim).
+- [Julietta.jl](https://github.com/tknopp/Julietta.jl) :: is an integrated developement environment (IDE) for the programming language Julia.
+- [Juno-LT](https://github.com/one-more-minute/Juno-LT) :: A Julia environment built on Light Table.
+- [Liclipse](http://brainwy.github.io/liclipse/) :: LiClipse, Eclipse plus some customizations, supports Julia. 
 
 
 ## Learning Julia
