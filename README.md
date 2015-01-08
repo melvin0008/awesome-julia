@@ -43,6 +43,9 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 
 *Installation, IDE's*
 
+### Installation 
+- [Installation and Downloads](http://julialang.org/downloads/) :: Three ways to install Julia
+
 ### IDE
 - [Sublime-Julia](https://github.com/quinnj/Sublime-Julia) :: Sublime Syntax, Build, Snippets, and REPL for the Julia language.
 - [Julia-Studio](http://forio.com/products/julia-studio/) :: Julia Studio by Forio.com and [Tutorials for Julia-Studio](http://forio.com/products/julia-studio/tutorials/) and its [source on github](https://github.com/forio/julia-tutorials).
