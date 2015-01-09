@@ -67,6 +67,7 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 - [Julia Studio Tutorials](http://forio.com/labs/julia-studio/tutorials/) - Learn Julia using Julia Studio.
 - [Learn Julia in XY Minutes](http://learnxinyminutes.com/docs/julia/) - Beginners tutorial to Julia.
 - [Learn Julia the hard way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Just what the name says.
+- [Basic tutorial on IPython](http://nbviewer.ipython.org/github/JuliaX/JuliaTutorial/blob/master/JuliaTutorial.ipynb) - Basic tutorial on IPython .
 - [Video Tutorials](#video-tutorials)
     - [Youtube Videos](https://www.youtube.com/user/JuliaLanguage/videos) - A list of lectures and video tutorials at youtube.
     - [Tutorial at SciPy 2014](https://www.youtube.com/watch?v=vWkgEddb4-A) - Great video tutorial for starters.
