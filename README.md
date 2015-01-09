@@ -50,16 +50,14 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 
 *Credits for curating the IDE List given to [Svaksha](https://github.com/svaksha/Julia.jl)*
 
-- [Sublime-Julia](https://github.com/quinnj/Sublime-Julia) :: Sublime Syntax, Build, Snippets, and REPL for the Julia language.
-- [Julia-Studio](http://forio.com/products/julia-studio/) :: Julia Studio by Forio.com and [Tutorials for Julia-Studio](http://forio.com/products/julia-studio/tutorials/) and its [source on github](https://github.com/forio/julia-tutorials).
-- [emacs-ess-julia.el](https://github.com/emacs-ess/ESS/blob/master/lisp/ess-julia.el) :: ESS support for julia language, includes font-lock, indentation, sending code to sub-process, interactive documentation, imenu, completion and eldoc. 
-- [jEdit-julia](https://github.com/tuckerkevin/jedit-julia) :: A jEdit mode for Julia.
-- [Jewel.jl](https://github.com/one-more-minute/Jewel.jl) :: is the Julia package which handles communication with Light Table for Jewel.
-- [Julia.tmbundle](https://github.com/nanoant/Julia.tmbundle) :: Julia language support for TextMate 2 (and Sublime Text).
-- [Julia-Vim](https://github.com/JuliaLang/julia-vim).
-- [Julietta.jl](https://github.com/tknopp/Julietta.jl) :: is an integrated developement environment (IDE) for the programming language Julia.
-- [Juno-LT](https://github.com/one-more-minute/Juno-LT) :: A Julia environment built on Light Table.
-- [Liclipse](http://brainwy.github.io/liclipse/) :: LiClipse, Eclipse plus some customizations, supports Julia. 
+- [Sublime-IJulia](https://github.com/quinnj/Sublime-IJulia)- Sublime-IJulia provides a frontend to the IJulia backend kernel within the popular text editor, Sublime Text.
+- [Julia-Studio](http://forio.com/products/julia-studio/)- Julia Studio by Forio.com 
+- [emacs-ess-julia.el](https://github.com/emacs-ess/ESS/blob/master/lisp/ess-julia.el) - Emacs support for Julia. 
+- [Julia.tmbundle](https://github.com/WestleyArgentum/Julia.tmbundle) - Julia language support for TextMate 2.
+- [Julia-Vim](https://github.com/JuliaLang/julia-vim). Vim support for Julia.
+- [Juno-LT](https://github.com/one-more-minute/Juno-LT) - A Julia environment built on Light Table.
+- [IJulia](https://github.com/one-more-minute/Juno-LT) - A Julia environment built on Light Table.
+- [Kate](http://kate-editor.org/get-it/) - InBuilt support for Julia.  Highlighting from [this link](https://github.com/jgm/highlighting-kate) .
 
 
 ## Learning Julia
