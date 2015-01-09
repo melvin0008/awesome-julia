@@ -85,6 +85,7 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 
 - [Julia Docs](http://julia.readthedocs.org/) - Julia Documentation.
 - [Julia Cheetsheet](http://math.mit.edu/~stevenj/Julia-cheatsheet.pdf) - A list of basic math functions.
+- [Julia Bloggers](http://www.juliabloggers.com/) - Great way to be upto date with the latest development in Julia
 - [Julia Standard Library](http://docs.julialang.org/en/release-0.3/stdlib/) List of standard libraries for v3.0
     - [Essentials](http://docs.julialang.org/en/release-0.3/stdlib/base/)
     - [Collections and Data Structures](http://docs.julialang.org/en/release-0.3/stdlib/collections/)
