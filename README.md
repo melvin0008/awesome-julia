@@ -79,7 +79,7 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
     - [Youtube Videos](https://www.youtube.com/user/JuliaLanguage/videos) - A list of lectures and video tutorials at youtube.
     - [Tutorial at SciPy 2014](https://www.youtube.com/watch?v=vWkgEddb4-A) - Great video tutorial for starters.
     - [PyCon 2014](https://www.youtube.com/playlist?list=PLP8iPy9hna6TSRouJfvobfxkZFYiPSvPd) - Playlist of tutorials at PyCon 2014.
-    - [MIT Tutorials](https://www.youtube.com/playlist?list=PLP8iPy9hna6Si2sjMkrPY-wt2mEouZgaZ) - Playlist of Julia tutorials at MIT.
+    - [MIT Tutorials](https://www.youtube.com/playlist?list=PLP8iPy9hna6Si2sjMkrPY-wt2mEouZgaZ) - Playlist of Julia tutorials at MIT.[Code](https://github.com/JuliaLang/julia-tutorial)
     - [IPython Tutorial Series ](http://showmedo.com/videotutorials/series?name=CnluURUTV) - List of tutorials to get familiar with IPython
 
 
