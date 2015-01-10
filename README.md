@@ -13,7 +13,7 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 
 ## Github Umbrella
 
-*Curated list of Julia Projects*
+*Curated list of Julia Projects and Libraries*
 
 - [Julia Lang](https://github.com/JuliaLang)-[the language](http://julialang.org/community) - The core language and other libraries in Julia.
 - [Julia Stats](https://github.com/JuliaStats)- Statistic and Machine learning enthusiasts.
@@ -44,10 +44,10 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 *Installation, IDE's*
 
 ### Installation 
-- [Installation and Downloads](http://julialang.org/downloads/) :: Three ways to install Julia.
+- [Installation and Downloads](http://julialang.org/downloads/) - Three ways to install Julia.
 
 ### Frameworks
-- [Morsel](https://github.com/JuliaWeb/Morsel.jl) Sinatra like Microframework for Julia.
+- [Morsel](https://github.com/JuliaWeb/Morsel.jl) -Sinatra like Microframework for Julia.
 
 ### IDE 
 
