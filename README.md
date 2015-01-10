@@ -15,20 +15,20 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 
 *Curated list of Julia Projects*
 
-- [Julia Lang](https://github.com/JuliaLang)-[the language](http://julialang.org/community)
-- [Julia Stats](https://github.com/JuliaStats)
-- [Julia Opt](https://github.com/JuliaOpt)
-- [Julia Parallel](https://github.com/JuliaParallel)
-- [Julia Astro](https://github.com/JuliaAstro)
-- [Julia Quant](https://github.com/JuliaQuant)
-- [Julia Quantum](https://github.com/JuliaQuantum)
-- [Julia Sparse](https://github.com/JuliaSparse)
-- [Julia Diff](https://github.com/JuliaDiff)
-- [Julia GPU](https://github.com/JuliaGPU)
-- [Julia Web](https://github.com/JuliaWeb)
-- [Julia CI](https://github.com/JuliaCI)
-- [BioJulia](https://github.com/BioJulia)
-- [JuliaBox](https://github.com/JuliaLang/JuliaBox)
+- [Julia Lang](https://github.com/JuliaLang)-[the language](http://julialang.org/community) - The core language and other libraries in Julia.
+- [Julia Stats](https://github.com/JuliaStats)- Statistic and Machine learning enthusiasts.
+- [Julia Opt](https://github.com/JuliaOpt)- Solutions and libraries for Mathematical Optimization.
+- [Julia Parallel](https://github.com/JuliaParallel)-Various models of Parallel Programming in Julia.
+- [Julia Astro](https://github.com/JuliaAstro) - Astronomy and Astrophysics packages for Julia.
+- [Julia Quant](https://github.com/JuliaQuant) -Quantitative Finance Libraries in Julia.
+- [Julia Quantum](https://github.com/JuliaQuantum) - Julia Libraries for Quantum Science and Technology.
+- [Julia Sparse](https://github.com/JuliaSparse) -Sparse Matrix and Graph Partioning libraries.
+- [Julia Diff](https://github.com/JuliaDiff) - Differential Tools in Julia. 
+- [Julia GPU](https://github.com/JuliaGPU) - GPU computing for Julia
+- [Julia Web](https://github.com/JuliaWeb) - Libraries for the web . Includes sockets, requests, curl, GeoIP and much more.
+- [Julia CI](https://github.com/JuliaCI) - Continous Integration support for Julia. Includes Travis Builds and Tests. 
+- [BioJulia](https://github.com/BioJulia) - -Bioinformatics Research.
+- [JuliaBox](https://github.com/JuliaLang/JuliaBox) - Code Julia on the go using a browser.
 
 
 
@@ -44,7 +44,10 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 *Installation, IDE's*
 
 ### Installation 
-- [Installation and Downloads](http://julialang.org/downloads/) :: Three ways to install Julia
+- [Installation and Downloads](http://julialang.org/downloads/) :: Three ways to install Julia.
+
+### Frameworks
+- [Morsel](https://github.com/JuliaWeb/Morsel.jl) Sinatra like Microframework for Julia.
 
 ### IDE 
 
