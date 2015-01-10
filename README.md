@@ -55,7 +55,7 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 - [Julia-Studio](http://forio.com/products/julia-studio/)- Julia Studio by Forio.com 
 - [emacs-ess-julia.el](https://github.com/emacs-ess/ESS/blob/master/lisp/ess-julia.el) - Emacs support for Julia. 
 - [Julia.tmbundle](https://github.com/WestleyArgentum/Julia.tmbundle) - Julia language support for TextMate 2.
-- [Julia-Vim](https://github.com/JuliaLang/julia-vim). Vim support for Julia.
+- [Julia-Vim](https://github.com/JuliaLang/julia-vim) - Vim support for Julia.
 - [IJulia](https://github.com/one-more-minute/Juno-LT) - A Julia environment built on Light Table.
 - [Kate](http://kate-editor.org/get-it/) - InBuilt support for Julia.  Highlighting from [this link](https://github.com/jgm/highlighting-kate) .
 - [Notepad++](https://github.com/JuliaLang/julia/blob/master/contrib/Julia_Notepad%2B%2B.xml) - Support for Notepad++
