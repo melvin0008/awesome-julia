@@ -4,6 +4,7 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 
 - [Awesome Julia](#awesome-julia)
     - [Github Umbrella](#github-umbrella)
+    - [Calling other languages](#calling-other-languages)
     - [Packages](#packages)
     - [Learning Julia](#learning-julia)
     - [Software](#software)
@@ -31,7 +32,14 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 - [JuliaBox](https://github.com/JuliaLang/JuliaBox) - Code Julia on the go using a browser.
 
 
+## Calling other Languages 
 
+*Calling other functions of other languages from Julia*
+
+- [Objective-C](https://github.com/one-more-minute/ObjectiveC.jl) - Objective-C bridge for Julia.
+- [Python](https://github.com/JuliaLang/pyjulia) - Python bridge for Julia.
+
+*Curated list of Julia Projects and Libraries*
 ## Packages
 
 *Curated list of packages category wise*
