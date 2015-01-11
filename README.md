@@ -64,6 +64,7 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 
 - [Sublime-IJulia](https://github.com/quinnj/Sublime-IJulia)- Sublime-IJulia provides a frontend to the IJulia backend kernel within the popular text editor, Sublime Text.
 - [Juno](http://junolab.org/docs/install.html) - Free Environment for Julia Language
+- [Julia-vim](https://github.com/JuliaLang/julia-vim) - Vim support for Julia 
 - [Julia.tmbundle](https://github.com/WestleyArgentum/Julia.tmbundle) - Julia language support for TextMate 2.
 - [IJulia](https://github.com/JuliaLang/IJulia.jl) - Julia Language Backend.
 - [Kate](http://kate-editor.org/get-it/) - InBuilt support for Julia.  Highlighting from [this link](https://github.com/jgm/highlighting-kate) .
