@@ -40,7 +40,6 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 - [Python](https://github.com/JuliaLang/pyjulia) - Python bridge for Julia.
 - [Java](http://aviks.github.io/JavaCall.jl/) - Java bridge fo Julia.
 
-*Curated list of Julia Projects and Libraries*
 ## Packages
 
 *Curated list of packages category wise*
