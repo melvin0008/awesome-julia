@@ -129,6 +129,7 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
     - [Julia Stats](https://groups.google.com/forum/?fromgroups=#!forum/julia-stats) - Discussions related to statistical programming with julia.
     - [Julia Opt](https://groups.google.com/forum/?fromgroups=#!forum/julia-opt) - Discussions related to numerical optimization in julia.
     - [Julia Box](https://groups.google.com/forum/?fromgroups=#!forum/julia-box) - Discussions related to running Julia in the so called cloud.
+    - [Julia Users Es](https://groups.google.com/forum/?fromgroups=#!forum/julia-users-es) - Discussions around the usage of Julia in the spanish language.
 
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/julia-lang)
 - [Twitter](https://twitter.com/hashtag/julialang?src=hash)
@@ -140,6 +141,7 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
         - [Bay Area Julia Users](http://www.meetup.com/Bay-Area-Julia-Users/)
         - [Cambridge Area Julia Users Network](http://www.meetup.com/julia-cajun/)
         - [Chicago Julia Meetup](http://www.meetup.com/JuliaChicago/)
+        - [Lenguaje de Programación Julia - México, D.F.](http://www.meetup.com/Lenguaje-de-Programacion-Julia-Mexico-D-F/)
         - [NYC Julia User Group](http://www.meetup.com/julia-nyc/)
         - [Southern California Julia Users](http://www.meetup.com/Southern-California-Julia-Users/)
         - [Triangle Julia Users (North Carolina)](http://www.meetup.com/Triangle-Julia-Users/)
