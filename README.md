@@ -1,6 +1,7 @@
 Awesome-Julia
 =============     
-A curated list of awesome julia libraries, softwares and tutorials. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+A curated list of awesome julia libraries, softwares and tutorials. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php). Many of these resources were originally collected and curated by [@svashka](https://github.com/svaksha/) and others – thank you for the hard work.    
+
 
 - [Awesome Julia](#awesome-julia)
     - [Github Umbrella](#github-umbrella)
@@ -60,7 +61,7 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 
 ### IDE 
 
-*Credits for curating the IDE List given to [Svaksha](https://github.com/svaksha/Julia.jl)*
+*List of IDE's*
 
 - [Sublime-IJulia](https://github.com/quinnj/Sublime-IJulia)- Sublime-IJulia provides a frontend to the IJulia backend kernel within the popular text editor, Sublime Text.
 - [Juno](http://junolab.org/docs/install.html) - Free Environment for Julia Language
@@ -162,4 +163,9 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 
 # [Contributing](https://github.com/melvin0008/awesome-julia/blob/master/CONTRIBUTIONS.md)
 
-Your contributions are always welcome!
+Your contributions are always welcome!     
+
+
+###[Motivation]   
+[Julia.jl](https://github.com/svaksha/Julia.jl) a curated list of Julia Packages concentrates on packages and is suitable for developers with experience.
+For Newbies and developers who want to learn about julia , awesome-julia is more user-friendly.
