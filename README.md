@@ -171,5 +171,4 @@ Your contributions are always welcome!
 
 *My motivation for awesome-julia*
 
-[Julia.jl](https://github.com/svaksha/Julia.jl) a curated list of Julia Packages concentrates on packages and is suitable for developers with experience.
-For Newbies and developers who want to learn about julia , awesome-julia is more user-friendly in listing resources for developers to start from scratch.
+[Julia.jl](https://github.com/svaksha/Julia.jl) is a well curated list of packages but is suitable for developers who have a lot of experience. awesome-julia on the other hand is for newbies and developers with less experience. I also curated awesome-julia with another intention of having julia under the awesome-* lists. Developers directly look for awesome appended by the language they are looking for. So awesome julia does that.
