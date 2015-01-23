@@ -168,4 +168,4 @@ Your contributions are always welcome!
 
 ###[Motivation]   
 [Julia.jl](https://github.com/svaksha/Julia.jl) a curated list of Julia Packages concentrates on packages and is suitable for developers with experience.
-For Newbies and developers who want to learn about julia , awesome-julia is more user-friendly.
+For Newbies and developers who want to learn about julia , awesome-julia is more user-friendly in listing resources for developers to start from scratch.
