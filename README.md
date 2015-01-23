@@ -167,7 +167,7 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 Your contributions are always welcome!     
 
 
-###[Motivation]    
+### Motivation
 
 *My motivation for awesome-julia*
 
